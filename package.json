@@ -1,0 +1,13 @@
+{
+  "name": "stronghold_protocol",
+  "version": "1.0.0",
+  "description": "一个基于纯静态HTML的明日方舟卫戍协议干员和盟约信息展示网页，帮助萌新快速了解干员盟约信息，避免手忙脚乱。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
